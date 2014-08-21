@@ -15,3 +15,4 @@ module.exports = class indeximpl
       $.destroy()
     
     $.index.open()
+    

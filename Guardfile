@@ -1,0 +1,1 @@
+guard 'coffeescript', :input => 'coffee', :output => '1.0.0', :bare => true

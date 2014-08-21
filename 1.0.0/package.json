@@ -1,0 +1,9 @@
+{
+    "description": "indeximpl",
+    "directories": {
+        "lib": "."
+    },
+    "main": "indeximpl",
+    "name": "indeximpl",
+    "version": "1.0.0"
+}
